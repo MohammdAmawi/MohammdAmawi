@@ -104,6 +104,7 @@
 ### 💼 Open for collaborations and exciting opportunities!  
 ### 📧 Feel free to reach out: [ahmad1234amawi@gmail.com](mailto:ahmad1234amawi@gmail.com)  
 ### 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamad-abdullah-amawi-61679a337/)  
+### 🌍 Check out my work on [GitHub](https://github.com/MohammdAmawi)  
 
 "First, solve the problem. Then, write the code." - *John Johnson*
 
