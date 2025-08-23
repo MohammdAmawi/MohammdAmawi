@@ -20,7 +20,7 @@
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammdAmawi)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -50,20 +50,20 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohamad-abdullah-amawi&theme=tokyonight&hide_border=true&border_radius=10&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohammdAmawi&theme=tokyonight&hide_border=true&border_radius=10&card_width=800)](https://github.com/MohammdAmawi)
 
 </div>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamad-abdullah-amawi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-abdullah-amawi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammdAmawi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammdAmawi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
 <div align="center">
   
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamad-abdullah-amawi&theme=tokyo-night&hide_border=true&border_radius=15&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammdAmawi&theme=tokyo-night&hide_border=true&border_radius=15&area=true&custom_title=Contribution%20Graph)](https://github.com/MohammdAmawi)
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohamad-abdullah-amawi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohammdAmawi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/MohammdAmawi)
 
 </div>
 
@@ -93,7 +93,7 @@
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/mohamad-abdullah-amawi/mohamad-abdullah-amawi/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/MohammdAmawi/MohammdAmawi/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
