@@ -14,16 +14,31 @@
 <br/>
 
 <a id="about"></a>
-## 01 / About
+## Engineering profile
+
+<img src="https://cdn.jsdelivr.net/gh/MohammdAmawi/MohammdAmawi@77a6e8399d39e8fc5de3441f6d499111c7ac679e/assets/engineering-profile.svg" width="100%" alt="Engineering profile: Requirements Engineering, Software Modeling, System Design, and Database Design." />
 
 I'm **Mohammad Amawi**, a **third-year Software Engineering student** focused on **Full-Stack Web Development**.
 
-I'm developing practical software engineering skills through technical learning, projects, and collaboration. My interests include application development, structured problem solving, and building software that is understandable and maintainable.
+My strengths include **Software Requirements Engineering, Software Modeling, System Design, and Database Design**. I enjoy turning needs into clear requirements, representing system structure and behavior, and designing how components and data fit together.
 
-I contribute to **Breakers Team** as a member and support the local **NASA Space Apps Irbid** community as a **Technical Mentor**.
+I'm developing my implementation skills through projects and technical learning, connecting software analysis and design with practical application development.
+
+<details>
+<summary><b>Inside my engineering approach →</b></summary>
+
+<br/>
+
+| Understand | Model | Design |
+| :--- | :--- | :--- |
+| Clarify the problem and requirements | Represent system structure and behavior | Organize components, data, and relationships |
+
+I value clear requirements, understandable models, and design decisions that can be explained and improved through feedback.
+
+</details>
 
 <a id="direction"></a>
-## 02 / Professional direction
+## Development direction
 
 | Current focus | Next specialization | Long-term direction |
 | :--- | :--- | :--- |
@@ -43,44 +58,31 @@ I contribute to **Breakers Team** as a member and support the local **NASA Space
 </details>
 
 <a id="projects"></a>
-## 03 / Selected projects
+## Project portfolio
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🎯 Score Keeper</h3>
-<p>An interactive score-tracking interface with configurable winning scores and reset behavior.</p>
-<p><b>Focus:</b> Application logic &amp; user interaction</p>
-<a href="https://github.com/MohammdAmawi/Score-Keeper"><b>Explore project →</b></a>
-</td>
-<td width="50%" valign="top">
-<h3>◈ Modern Login UI</h3>
-<p>A login-page interface exploring layout, form presentation, and visual styling.</p>
-<p><b>Focus:</b> Frontend development &amp; interface design</p>
-<a href="https://github.com/MohammdAmawi/Modern-Login-Page-Ui-Design"><b>Explore project →</b></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🍬 Museum of Candy</h3>
-<p>A landing-page project exploring responsive layouts and visual structure.</p>
-<p><b>Focus:</b> Responsive web design</p>
-<a href="https://github.com/MohammdAmawi/Museum_Of_Candy"><b>Explore project →</b></a>
-</td>
-<td width="50%" valign="top">
-<h3>↗ Project collection</h3>
-<p>Explore my repositories, learning projects, and ongoing development work.</p>
-<p><b>Focus:</b> Practical learning &amp; continuous improvement</p>
-<a href="https://github.com/MohammdAmawi?tab=repositories"><b>Browse repositories →</b></a>
-</td>
-</tr>
-</table>
+**Application logic · Interface design · Responsive development**
+
+A selection of learning projects connecting software concepts with working interfaces. Select a card to explore its repository.
+
+<a href="https://github.com/MohammdAmawi/Score-Keeper"><img src="https://cdn.jsdelivr.net/gh/MohammdAmawi/MohammdAmawi@77a6e8399d39e8fc5de3441f6d499111c7ac679e/assets/score-keeper.svg" width="100%" alt="Score Keeper — Application logic, state transitions, user interaction, and reset behavior. Explore repository." /></a>
+
+<a href="https://github.com/MohammdAmawi/Modern-Login-Page-Ui-Design"><img src="https://cdn.jsdelivr.net/gh/MohammdAmawi/MohammdAmawi@77a6e8399d39e8fc5de3441f6d499111c7ac679e/assets/login-interface.svg" width="100%" alt="Modern Login UI — Interface design, layout, form presentation, and visual styling. Explore repository." /></a>
+
+<a href="https://github.com/MohammdAmawi/Museum_Of_Candy"><img src="https://cdn.jsdelivr.net/gh/MohammdAmawi/MohammdAmawi@77a6e8399d39e8fc5de3441f6d499111c7ac679e/assets/responsive-layout.svg" width="100%" alt="Museum of Candy — Responsive layout, content structure, and visual hierarchy. Explore repository." /></a>
+
+<div align="center">
+<a href="https://github.com/MohammdAmawi?tab=repositories"><b>View all repositories →</b></a>
+</div>
+
+<br/>
 
 <a id="community"></a>
-## 04 / Community & contributions
+## Community & collaboration
 
-<details open>
-<summary><b>🚀 Technical Mentor · NASA Space Apps Irbid</b></summary>
+<img src="https://cdn.jsdelivr.net/gh/MohammdAmawi/MohammdAmawi@77a6e8399d39e8fc5de3441f6d499111c7ac679e/assets/community-contributions.svg" width="100%" alt="Community contributions: Technical Mentor at NASA Space Apps Irbid and Team Member at Breakers Team." />
+
+<details>
+<summary><b>NASA Space Apps Irbid / Technical mentoring →</b></summary>
 
 <br/>
 
@@ -88,19 +90,23 @@ I support participants in the **local Irbid edition of the NASA Space Apps Chall
 
 I help teams structure their ideas, understand technical requirements, and improve their project development process.
 
+**Contribution areas:** Technical guidance · Project planning · Requirements understanding · Team collaboration
+
 </details>
 
 <details>
-<summary><b>🤝 Member · Breakers Team</b></summary>
+<summary><b>Breakers Team / Collaborative learning →</b></summary>
 
 <br/>
 
-I participate in technical learning, collaborative problem solving, and teamwork to develop my software engineering skills.
+I participate as a **team member** in technical learning, collaborative problem solving, and teamwork to develop my software engineering skills.
+
+**Contribution areas:** Technical learning · Problem solving · Knowledge sharing · Teamwork
 
 </details>
 
 <a id="connect"></a>
-## 05 / Let's connect
+## Let's connect
 
 Open to **software engineering and web-development internships**, **student collaborations**, and **technical communities**.
 
