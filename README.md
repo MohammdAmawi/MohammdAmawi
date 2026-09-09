@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Mohammad Amawi — Software Engineering Student. Full-stack learning, a planned .NET specialization, and a long-term interest in DevOps." />
+  <img src="https://raw.githubusercontent.com/MohammdAmawi/MohammdAmawi/2d45b1fd2ac8ad70ef1c13ba735169d59c01cbd0/assets/profile-hero.svg" width="100%" alt="Mohammad Amawi — Software Engineering Student. Full-stack learning, a planned .NET specialization, and a long-term interest in DevOps." />
   <br/><br/>
   <a href="https://www.linkedin.com/in/mohammadamawi"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-5eead4?style=for-the-badge&amp;labelColor=0f172a" alt="Connect on LinkedIn" /></a>
   <a href="https://github.com/MohammdAmawi?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-Projects-a78bfa?style=for-the-badge&amp;labelColor=0f172a" alt="Explore projects" /></a>
