@@ -32,9 +32,9 @@
 <text x="86" y="70" font-size="12" letter-spacing="1.5" fill="#99f6e4">LEARNING. BUILDING. GROWING.</text>
 <text x="55" y="157" font-size="61" font-weight="750" fill="#f8fafc">Mohammad Amawi<tspan class="cursor" fill="#5eead4">_</tspan></text>
 <text x="58" y="205" font-size="24" fill="#cbd5e1">Software Engineering Student</text>
-<text x="58" y="242" font-size="18" fill="#94a3b8">Third year · JavaScript foundations · Full-stack learning</text>
-<rect x="57" y="283" width="168" height="32" rx="8" fill="#17383b"/>
-<text x="141" y="304" text-anchor="middle" font-size="13" fill="#99f6e4">NOW / JAVASCRIPT</text>
+<text x="58" y="242" font-size="18" fill="#94a3b8">Third year · Web development · Full-stack learning</text>
+<rect x="57" y="283" width="181" height="32" rx="8" fill="#17383b"/>
+<text x="147" y="304" text-anchor="middle" font-size="13" fill="#99f6e4">NOW / WEB DEVELOPMENT</text>
 <rect x="238" y="283" width="145" height="32" rx="8" fill="#2c254b"/>
 <text x="310" y="304" text-anchor="middle" font-size="13" fill="#ddd6fe">NEXT / .NET</text>
 <text x="402" y="304" font-size="13" fill="#94a3b8">FUTURE / DEVOPS</text>
